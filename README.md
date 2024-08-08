@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zulelee
-- 👀 I’m interested in all types of coding projects
-- 🌱 I’m currently doing Software Engineering
-- 💞️ I’m looking to collaborate on Java/C++/Python/Web projects. I am also aiming to develop my skills in ML and AI
+- 👀 I’m interested in AI tools and Automation
+- 🌱 I am a Software Engineer
+- 💞️ I’m looking to collaborate on Python/NextJS Web projects.
 - 📫 You can reach me through this email -> zulekhaimtiaz911@gmail.com
 
 <!---
