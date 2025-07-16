@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI tools and Automation
 - 🌱 I am a Software Engineer
 - 💞️ I’m looking to collaborate on Python/NextJS Web projects.
-- 📫 You can reach me through this email -> zulekhaimtiaz911@gmail.com
+- 📫 You can reach me through this email -> hey.zulele@gmail.com
 
 <!---
 Zulelee/Zulelee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
